@@ -25,7 +25,7 @@ The user can select between **2 and 10 racers**. Each turtle is given a random m
 ```text
 turtle-racing-game/
 │
-├── turtle_racing.py
+├── main.py
 └── README.md
 ```
 
@@ -52,10 +52,8 @@ python3 --version
 Clone this repository using:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/turtle-racing-game.git
+git clone https://github.com/aanak30/turtle-racing-game.git
 ```
-
-Replace `YOUR-USERNAME` with your GitHub username.
 
 ### 3. Open the Project
 
@@ -70,13 +68,13 @@ cd turtle-racing-game
 Run the Python file:
 
 ```bash
-python turtle_racing.py
+python main.py
 ```
 
 If your system uses `python3`:
 
 ```bash
-python3 turtle_racing.py
+python3 main.py
 ```
 
 ## 🎮 How to Play
